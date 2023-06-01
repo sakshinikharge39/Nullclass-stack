@@ -4,7 +4,7 @@
 
 My first task in my internship was to clone the stackoverflow website, within **15 days**.
 
-I **started** my Internship on **December 10 of 2022**.
+I **started** my Internship on **may 31 of 2023**.
 
 I **completed** cloning the required website on **December 23 of 2022**.
 
